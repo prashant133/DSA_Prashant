@@ -1,5 +1,5 @@
 package WeeklyQuestion;
-
+//week 6
 import java.util.HashMap;
 
 class UniqueEqualizer {

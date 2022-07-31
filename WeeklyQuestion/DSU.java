@@ -1,4 +1,5 @@
 package WeeklyQuestion;
+//week 3 
 // Java program for the above approach
 import java.util.*;
 
